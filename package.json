@@ -1,0 +1,15 @@
+{
+  "name": "cypress-health-check",
+  "version": "0.0.1",
+  "description": "Suite to check health (response codes) of web pages.",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run --headless",
+    "embedded_rec": "cypress run --headless --spec cypress/integration/embedded_rec_spec.js"
+  },
+  "dependencies": {
+    "cypress": "^7.4.0"
+  },
+  "author": "AndrewRPorter <pavelow53.andrew@gmail.com>",
+  "license": "MIT"
+}

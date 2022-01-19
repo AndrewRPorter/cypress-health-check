@@ -1,0 +1,5 @@
+{
+  "defaultCommandTimeout": 10000,
+  "screenshotOnRunFailure": false,
+  "pageLoadTimeout": 10000
+}
