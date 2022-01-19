@@ -15,3 +15,5 @@ yarn test
 ```
 
 Once the list is updated you can push the changes to your forked repo and create a CircleCI project. Visit [CircleCI](https://app.circleci.com) to get started.
+
+You can also edit your CircleCI [account notification settings](https://app.circleci.com/settings/user/notifications) to send you emails when your builds fail.
